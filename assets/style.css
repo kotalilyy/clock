@@ -6,6 +6,11 @@
 body {
     background: linear-gradient(to right,rgb(250, 255, 115),
     rgb(141, 237, 242));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: hidden;
 }
 
 .clock {
