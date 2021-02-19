@@ -14,4 +14,5 @@ https://kotalilyy.github.io/JavaScript-Clock/
 ## Contributions
 
 Made with ❤️ by Dakota Nelson
+
 Created with the help of @WebDevSimplified
