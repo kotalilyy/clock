@@ -14,4 +14,3 @@ https://kotalilyy.github.io/JavaScript-Clock/
 ## Contributions
 
 
-Created with the help of @WebDevSimplified
