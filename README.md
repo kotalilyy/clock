@@ -2,21 +2,17 @@
 
 You know what time it is! Time for more JavaScript!
 
-## Description
-
-Check the time with this clock
-
 ## Table of Contents
 
-  - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Usage](#usage)
   - [Credits](#credits)
   - [Contributions](#contributions)
+  - [Questions](#questions)
 
 ## Usage
 
-[Click here to see the live link!](https://kotalilyy.github.io/JavaScript-Clock/)
+[live link](https://kotalilyy.github.io/JavaScript-Clock/)
 
 ## Credits
 
@@ -24,5 +20,9 @@ Check the time with this clock
 
 ## Contributions
 
-Created with ❤️ by Dakota Nelson
+Created with ❤️ by [Dakota Nelson](https://github.com/kotalilyy)
+
+## Questions
+
+<a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
