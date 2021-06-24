@@ -12,7 +12,7 @@ You know what time it is! Time for more JavaScript!
 
 ## Usage
 
-[live link](https://kotalilyy.github.io/JavaScript-Clock/)
+[live link](https://kotalilyy.github.io/javascript-clock/)
 
 ## Credits
 
