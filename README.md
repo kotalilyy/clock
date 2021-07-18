@@ -1,6 +1,6 @@
 # JavaScript Clock
 
-You know what time it is! Time for more JavaScript! Check this clock out to see the current time. 
+You know what time it is! Time for more JavaScript! Check this clock to see the current time. 
 
 <img width="482" alt="rsz_clock" src="https://user-images.githubusercontent.com/77229281/126064993-f46ec4e2-8d49-49c4-9a9d-9c8fd86a43a3.png">
 
