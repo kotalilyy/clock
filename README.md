@@ -16,7 +16,7 @@ You know what time it is! Time for more JavaScript! Check this clock to see the 
 
 ## Live Link
 
-[live link](https://kotalilyy.github.io/javascript-clock/)
+[live link](https://kotalilyy.github.io/clock/)
 
 ## Credits
 
