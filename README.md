@@ -1,16 +1,8 @@
 # Clock
 
-You know what time it is. Time for more JavaScript. Check this clock to see the current time. 
+You know what time it is.
 
-<img width="482" alt="rsz_clock" src="https://user-images.githubusercontent.com/77229281/126064993-f46ec4e2-8d49-49c4-9a9d-9c8fd86a43a3.png">
-
-## Table of Contents
-
-  - [Table of Contents](#table-of-contents)
-  - [Live Link](#live-link)
-  - [Credits](#credits)
-  - [Contributions](#contributions)
-  - [Questions](#questions)
+<img width="293" alt="clock" src="https://user-images.githubusercontent.com/77229281/129648557-ec0b1166-84cf-4520-89ce-2c74e3acd84c.png">
 
 ## Live Link
 
@@ -18,7 +10,7 @@ You know what time it is. Time for more JavaScript. Check this clock to see the 
 
 ## Credits
 
-[Tutorial](https://www.youtube.com/watch?v=Ki0XXrlKlHY) by [@WebDevSimplified](https://github.com/WebDevSimplified/JavaScript-Clock)
+[Tutorial](https://www.youtube.com/watch?v=Ki0XXrlKlHY) by @[WebDevSimplified](https://github.com/WebDevSimplified/JavaScript-Clock)
 
 ## Contributions
 
