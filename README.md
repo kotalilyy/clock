@@ -10,7 +10,9 @@ You know what time it is.
 
 ## Credits
 
-[Tutorial](https://www.youtube.com/watch?v=Ki0XXrlKlHY) by @[WebDevSimplified](https://github.com/WebDevSimplified/JavaScript-Clock)
+Click [here](https://www.youtube.com/watch?v=Ki0XXrlKlHY) to create this clock.
+
+Thanks @[WebDevSimplified](https://github.com/WebDevSimplified/JavaScript-Clock)
 
 ## Contributions
 
